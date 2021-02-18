@@ -1,7 +1,6 @@
 <?php
 
 include "IQuery.php";
-include "IDatabaseType.php";
 include "PDOConnector.php";
 include "SQLQuery.php";
 include "SQL.php";
